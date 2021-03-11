@@ -1,0 +1,14 @@
+.footer{background-color:#008bff
+     /* #5edfff; */
+    }
+
+.footer a{display: block; color: white;}
+.footer a:hover {text-decoration: none;}
+
+.footer h3{ padding-top: 10px;
+font-weight: 700;
+color: black;}
+
+.footer .fab-fa a  {display: inline;}
+.small-fo{background-color: black; text-align: center; color: white;}
+.small-fo a{display: inline; color: #008bff;}

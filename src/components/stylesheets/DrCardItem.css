@@ -1,0 +1,96 @@
+/* .DrSearch{background-color: gray;} */
+.DrCard {
+  background-color: white;
+  padding: 20px;
+  margin: 50px auto;
+  border-radius: 20px;
+}
+.DrCard .carousel-control-next-icon {
+  background-image: url("../imgs/right.png");
+  width: 30px;
+}
+.DrCard .carousel-control-prev-icon {
+  background-image: url("../imgs/left.png");
+}
+.DrCard .cut-text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 250px;
+  white-space: nowrap; margin: 0 0 5px 0px;
+}
+
+.rate p,
+.rate i {
+  display: inline;
+  padding:  5px 2px;
+}
+
+.Calendar-Car {
+  /* background-color: black; */
+  padding: 20px 0px;
+}
+.Calendar-Item {
+  text-align: center;
+}
+.Calendar-Header {
+  background-color: #008bff;
+  padding: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.Calendar-Body {
+  background-color: white;
+  padding: 20px;
+}
+.Calendar-Footer {
+  background-color: red;
+  padding: 20px;
+
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.dr-name {
+  font-size: 28px;
+  color: #008bff;
+}
+.dr-address {
+    font-size: 22px;
+    color: #707070;
+}
+.dr-address i{
+    font-size: 22px;
+    color: #008bff;
+    
+}
+.dr-type {
+  font-size: 22px;
+  color: #707070;
+}
+.dr-money {
+    font-size: 22px;
+
+  color: #7cbb69;
+}
+.dr-number {
+    font-size: 22px;
+    color: #707070;
+}
+.dr-number i{
+    font-size: 22px;
+    color: #008bff;
+}
+.dr-time{font-size: 22px;
+    color: #707070;}
+.dr-time i{ font-size: 22px;
+    color: #008bff;}
+
+
+.rate {
+  color: #008bff;
+}
+.cartext{ text-align: center;
+padding-top: 10px; margin: auto; background-color: red; border: none;}
+
+
+.drcardul li{ border: 2px solid  #008bff; width: fit-content; display: inline-block; padding: 5px; margin: 8px; border-radius: 5px;}

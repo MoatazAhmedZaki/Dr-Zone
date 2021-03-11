@@ -1,0 +1,206 @@
+
+
+.searchForm{position: relative;
+z-index: 11;}
+.store {
+  /* overflow-y: scroll; */
+  /* max-height: 110px; */
+  /* max-width: 50% */
+  background-color: white;
+  /* width: max-content; */
+  width: 600px;
+  padding: 10px 0;
+}
+.store ul {
+  padding: 0px 25px;margin-bottom: 0px;
+}
+.store li {
+  list-style: none;
+  padding: 5px 10px;
+  color: #008BFF;
+}
+.store li:hover {
+  cursor: pointer;
+
+  background-color: rgb(244, 246, 247);
+
+}
+
+.hidden {
+  display: none;
+}
+
+.viewfull {
+  display: block;
+}
+
+/* .store :nth-child(4) {
+    background-color: lime;
+  } */
+
+.muybtnn {
+  padding: 10px 5px;
+height: 100%;
+  cursor: pointer;
+  /* width: fit-content; */
+  width: 100%;
+  margin: auto;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  background-color: white;
+  /* border: 1px solid gray; */
+  display: inline-block;
+}
+.holder{padding: 0!important; margin: auto;}
+
+.muybtnn span {
+  font-size: 0.5rem;
+  color: gray;
+}
+/* .muybtnn{  padding: 25px ;
+} */
+.muybtnn p {
+  text-align: center;
+  font-size: 20px;
+  color: #008BFF;
+  /* padding: 25px ; */
+}
+
+/* #DrName input , #DrName i {
+  display: inline;
+ 
+} */
+.Name .form-control { width: 200px ; display: inline; border: none; font-size:20px ; padding: 0;}
+
+.muybtnn .mychevron{
+  /* float: right; */
+   padding-top: 10px;
+  padding-left: 5px;
+
+  padding-right: 5px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  /* background-color: #008BFF !important; */
+  width: fit-content;
+}
+
+.store .carousel-control-next:hover,
+.store .carousel-control-prev:hover {
+  background-color: #008BFF !important;
+  /* width: fit-content; */
+  transition: all 2s;
+}
+/* .carousel-control-prev-icon {background-image: url;} */
+
+.holder {
+  display: inline;
+  position: relative;
+  
+}
+
+.viewfull {
+  position: absolute;
+  top: 70px;
+  /* left: 0; */
+  z-index: 10;
+}
+.holder h6 {
+  text-align: center;
+  margin: auto;
+  color: gray;
+  font-size: 10px;
+  font-weight: 200;
+}
+.searchbtn {
+  background-color: red;
+  /* border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px; */
+  /* height: auto; */
+}
+.searchbtn p {
+  color: white !important;
+}
+.searchbtn i {
+  color: white !important;
+}
+
+.holder p {
+  color: gray;
+}
+.holder i {
+  color: #008BFF;
+}
+
+
+
+.form-label{font-weight: 900;font-size: 1.5em;}
+
+        .contact-form input{ border: black 1px solid;     font-size: 2.4em;
+        }
+        .form-check-input{display: none;
+    }
+        .form-check-label{display: inline-block;
+            position: relative;
+            text-align: center;
+            font-size: 1.4em;
+            line-height: 1.4;
+            letter-spacing: -0.01em;
+            padding: 1rem 2rem;
+            border-radius: 5px;
+            color: white;
+            background: red;
+            border-width: 1px;
+            border-style: solid;
+            border:none;
+            transition: all 0.2s ease-in-out 0s;}
+
+           .white{color: white;}
+
+            #Normal:checked + label, #Online:checked + label, #Home:checked + label {
+                background: #008BFF; color: white;
+            }
+
+          
+
+            .form-check-label:hover, .form-check-label:focus {
+                cursor: pointer;
+                /* border-width: 1px;
+                border-style: solid;
+                border-color: rgb(136, 136, 145);
+                border-image: initial; */
+            }
+
+
+            .store .carousel-control-next-icon {background-image: url("../imgs/right.png");}
+            .store .carousel-control-prev-icon {background-image: url("../imgs/left.png");}
+
+
+            .store .carousel-control-next-icon, .carousel-control-prev-icon{width: 30px;}
+
+            .carousel-indicators{z-index: 10;}
+            
+            .test .form-control:focus{box-shadow: none;}
+            
+            .test *{font-size: 25px;}
+
+            @media (min-width: 1200px){
+              .test .container {
+                max-width: 1400px;
+            }}
+
+            .holder{width: 100%;}
+
+
+            .dr-name-input{height: 70px; background-color: white;
+            
+              font-size: 20px;
+            }
+
+            .dr-name-input i{  color: #008BFF;
+            }
+
+            /* .viewfull{left: -50%;} */
+            .store{width: inherit;}
+            .searchbtn{width:fit-content;   padding: 20px 40px; border-radius: 5px; border: none; font-size: 20px; color: white; font-weight: 700;}

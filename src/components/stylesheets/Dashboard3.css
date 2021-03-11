@@ -1,0 +1,7 @@
+.events{ border-radius: 20px;}
+.events .card-date i , .events .card-date p{ display: inline-block;}
+.events .card-date i { color: #008BFF;}
+
+.events .card-subTitle { font-weight: 500; font-size: 20px; color: #008BFF;}
+.events .event-info p{font-size: 15px; font-weight: 500; color: black; margin: 0;}
+.events .event-info span{font-size: 15px; font-weight: 400; color: #707070;}

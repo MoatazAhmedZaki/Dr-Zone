@@ -1,0 +1,15 @@
+
+
+.ClinicInfo{background-color: #e2e6ea;}
+.ClinicInfo .container{background-color: white; margin: 50px auto; border-radius: 20px; text-align: center;}
+
+.btn-alert{color: red; font-size: 25px;}
+
+.infoo{background-color: #008BFF; color: white; border-radius: 20px; padding: 20px;}
+
+.infoo-title{ padding: 20px;}
+.infoo-title i{color: #008BFF;}
+
+
+.inline-block{display: inline-block;}
+

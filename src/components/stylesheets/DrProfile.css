@@ -1,0 +1,18 @@
+.DrProfile{background-color: #e2e6ea;}
+.DrProfile .container{background-color: white; margin: 50px auto; border-radius: 20px;}
+
+.DrProfile .drname{color: #008bff
+    ;}
+    .DrProfile .drsp{color: gray
+        ;}
+
+        .DrProfile h2{display: inline-block;}
+
+        .DrProfile .drrate  {color: gray
+            ;}
+        .DrProfile  .drrate i {color:#008bff
+            ;}
+
+
+            .DrProfile .drview h2 {border: 2px solid #008bff; padding: 20px;
+            } 

@@ -1,0 +1,7 @@
+#profile {   display: block ; background-color: white; border-radius: 20px;}
+
+#profile .nav-link{color:#707070;border-radius: 10px; text-align: center; padding: 20px 0px; font-size: 25px; font-weight: 500;}
+
+
+.mygray {background-color: #e2e6ea;}
+#profile .nav-link.active{ background-color: #008BFF; color: white; }

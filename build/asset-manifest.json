@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dr-Zone/static/css/main.c2f8daf7.chunk.css",
+    "main.js": "/Dr-Zone/static/js/main.36c9ed51.chunk.js",
+    "main.js.map": "/Dr-Zone/static/js/main.36c9ed51.chunk.js.map",
+    "runtime-main.js": "/Dr-Zone/static/js/runtime-main.5cd39eb5.js",
+    "runtime-main.js.map": "/Dr-Zone/static/js/runtime-main.5cd39eb5.js.map",
+    "static/js/2.55f3c1fa.chunk.js": "/Dr-Zone/static/js/2.55f3c1fa.chunk.js",
+    "static/js/2.55f3c1fa.chunk.js.map": "/Dr-Zone/static/js/2.55f3c1fa.chunk.js.map",
+    "index.html": "/Dr-Zone/index.html",
+    "precache-manifest.6f82b6720b501898b30548c4e2bc1196.js": "/Dr-Zone/precache-manifest.6f82b6720b501898b30548c4e2bc1196.js",
+    "service-worker.js": "/Dr-Zone/service-worker.js",
+    "static/css/main.c2f8daf7.chunk.css.map": "/Dr-Zone/static/css/main.c2f8daf7.chunk.css.map",
+    "static/media/CardImg1.jpg": "/Dr-Zone/static/media/CardImg1.aa56f4cc.jpg",
+    "static/media/HomeHeader2.css": "/Dr-Zone/static/media/HomeHeader.49e149d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cd39eb5.js",
+    "static/js/2.55f3c1fa.chunk.js",
+    "static/css/main.c2f8daf7.chunk.css",
+    "static/js/main.36c9ed51.chunk.js"
+  ]
+}

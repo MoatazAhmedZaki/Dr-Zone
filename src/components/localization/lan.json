@@ -1,0 +1,131 @@
+{
+  "ar": {
+    "navbarLink1": "الرئيسية",
+    "navbarLink2": "للاطباء",
+    "navbarLink3": "اتصل بنا",
+
+    "navbarLink4": "كشف مجاني",
+    "Headerbtn1": "كشف عادي",
+    "Headerbtn2": " كشف اون لاين",
+    "Headerbtn3": "استشارة عادية",
+    "Headerbtn4": "استشارة اونلاين",
+    "Headerbtn5": "زيارة منزلية",
+    "Code": ":الكود ",
+
+    "Specialitytitle": "اختار التخصص",
+
+    "Speciality1": "جلدية",
+    "Speciality2": "                اسنان",
+    "Speciality3": "                         مخ و أعصاب",
+    "Name":"اسم الدكتور",
+
+    "Citytitle": " اختار المحافظة ",
+
+    "City1": "كل المحافظات",
+    "City2": "القاهرة",
+    "City3": "الجيزة",
+    "Areatitle": "اختار المنطقة",
+
+    "Area1": " كل المناطق ",
+    "Area2": "  مصر الجديدة ",
+    "Area3": "    مدينة نصر ",
+    "Area4": " المعادي ",
+    "Area5": "  التجمع ",
+    "Area6": "   حدائق القبة ",
+    "Area7": "   مدينة العبور ",
+    "Area8": "   المنيل ",
+    "Area9": " الدقي والمهندسين ",
+    "Area10": "   6 اكتوبر ",
+    "Area11": "الهرم ",
+    "Area12": " فيصل ",
+    "Area13": "  الشيخ زايد ",
+    "Area14": "   الجيزة الجديدة ",
+
+    "CardTitle": "الكشف عبر الإنترنت ",
+    "CardPrag": " يمكنك الان الكشف اونلاين من خلال ( Dr-Zone ) بأى وقت خلال 24 ساعه يوميا و 7 ايام فى الاسبوع ، اختر التخصص او الطبيب و قم بالكشف اونلاين فى كل التخصصات المختلفة ، خدمة الكشف اونلاين تمكنك من الحصول على خدمة طبية متميزة  من منزلك بدون الحاجة الى زيارة الطبيب ، يمكنك ايضا الحصول على استشارة اونلاين لمتابعة طبيبك بعد الكشف اونلاين او بعد الكشف المنزلى او بعد الكشف فى العيادة. ",
+    "CardPrag2":"يمكنك الكشف و الحصول على الوصفة العلاجية من طبيبك من خلال فيديو اونلاين تستطيع من خلاله مناقشة حالتك الصحية وجها لوجه مع طبيبك بدون قوائم انتظار ، بتكلفة اقل و باسرع وقت",
+    "footertitle1": "هل انت طبيب",
+    "footertitle2": "تحتاج مساعدة",
+    "footertitle3": "تابعنا",
+    "footertitle1link1": "من نحن",
+    "footertitle1link2": "فريفنا",
+    "footertitle1link3": "انضم الان",
+
+    "footertitle1link4": "اتصل بنا",
+
+    "footertitle1link5": "شروط الاستخدام",
+    "footertitle1link6": "اتفاقية الخصوصية",
+    "Soon": "قريبا",
+    "placeHolder": "اكتب كود الكشف بتاعك ",
+    "Confirmation":"تأكيد"
+
+
+  },
+  "en": {
+    "navbarLink1": "Home",
+    "navbarLink2": "Dr-Zone for Doctors",
+    "navbarLink3": "Contact Us",
+    "navbarLink4": "Free diagnosis",
+    "Code": "Code: ",
+
+    "placeHolder": "Enter The Code Here ",
+    "Confirmation":"Confirmation",
+
+    "Headerbtn1": " Clinic Consultation",
+    "Headerbtn2": "Online Consultation",
+    "Headerbtn3": "Outline ",
+    "Headerbtn4": "Outline",
+    "Headerbtn5": "Home Visit",
+    "Specialitytitle": "Select Speciality ",
+    "Speciality1": " Dermatology ",
+    "Speciality2": "                Dentistry ",
+    "Speciality3": "                          Psychiatry ",
+    "Name":"Doctor Name",
+
+    "Citytitle": " Select City ",
+
+    "City1": "All Cities ",
+    "City2": "Cairo",
+    "City3": "Giza",
+
+    "Areatitle": " Select Area ",
+
+    "Area1": " All Areas ",
+    "Area2": "Heliopolis ",
+    "Area3": "Nasr City ",
+    "Area4": "El-Maadi ",
+    "Area5": "New Cairo ",
+    "Area6": "Hadayek El-Kobba ",
+    "Area7": "El-Obour City ",
+    "Area8": "El-Manyal ",
+    "Area9": "Dokki and Mohandessin ",
+    "Area10": "6th of October ",
+    "Area11": "El-Haram ",
+    "Area12": "Faisal ",
+    "Area13": "El-Sheikh Zayed ",
+    "Area14": "New Giza ",
+
+
+
+    "type2": "Online Detection",
+    "type3": "Home detection",
+
+    "CardTitle": " Online detection",
+    "CardPrag": " By DR-ZONE's online check-up service you can make your online check-up any time 24/7, just choose your doctor or mention your problem and get your online check-up for all different specialties, by our online check-up service you get the most special medical treatment from your home or from anywhere;  you don't need to visit your doctor, not just but also you can have your online follow-ups after online check-up Or after your home private visit Or after clinc visit too. ",
+    "CardPrag2":"It's so easy only by online videoYou can make your diagnostic, get your prescription, discuss every detail of your case with your doctor without waiting list, faster and with lower price...",
+    "footertitle1": "Are you A Doctor?",
+    "footertitle2": "Need a Help?",
+    "footertitle3": "Follow Us",
+    "footertitle1link1": "About Us",
+    "footertitle1link2": "Our Team",
+
+    "footertitle1link3": "Join Us",
+
+    "footertitle1link4": " Contact Us",
+
+    "footertitle1link5": "Terms And Conditions",
+    "footertitle1link6": "Privacy Agreement",
+
+    "Soon": "Soon"
+  }
+}

@@ -1,0 +1,74 @@
+/* .HomeHeader .row{   justify-content: center;
+}
+
+
+.test{  position: absolute;
+    bottom: 150px;
+    margin: auto;
+    left: 0;
+    right: 0;
+z-index: 11;}
+
+
+.headerbtn{background-color: red; border-radius: 8px;
+font-size: 20px; font-weight: 700; }
+
+.SearchForm{width: 100%; border-radius: 50%;}
+.SearchForm .dropdown , .SearchForm .dropdown .btn {width: 20%!important;height: 60px;
+    border-radius: unset!important;}
+    
+    .SearchForm  .submit-button {width: 20%!important;height: 60px;
+        border-radius: unset!important;
+    background-color: red;}
+    
+    .dropdown-toggle::after {
+        color: red;
+        padding:  0 20px;
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f078";
+        text-decoration: inherit;
+        font-size: 25px;
+        border: none;    
+    }
+    
+    .dropdown-toggle {background-color: white;color: gray;        font-weight: 900;
+        font-size: 25px;
+
+    } 
+
+
+    .homecarousel2{width :100%;
+        height: 100vh; transition: all 5s;}
+        
+        .homecarousel2 img{ position: relative;height: 100vh;  transition: all 5s;}
+        
+        .my{
+        width: 1000px;
+        height: 300px; position: absolute;
+        bottom: 0px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        z-index: 11;}
+
+
+        .homecarousel2::after {
+            content: '';
+            position: absolute;
+            width: 100%; height:100%;
+            top:0; left:0;
+            right: 0;
+            bottom: 0;
+            background:rgba(0,0,0,0.2);
+            z-index: 2;
+           
+        }
+
+     .carousel-indicators .active{background-color: red!important;}
+
+
+     .mysm .white{ color: black; padding: 0 50px;}
+
+     .mysm .store {width: 100%;} 
+ */

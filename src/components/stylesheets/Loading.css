@@ -1,0 +1,76 @@
+.loading-page{ 
+    /* display: flex; */
+    width: 100vw;
+    height: 100vh;
+    
+    
+    /* justify-content: center;
+    align-items: center; */
+padding-top: 100px;
+    
+    color: white;
+    background-color: rgb(0, 35, 75);;}
+
+
+    .loading-page h1{font-size: 100px;
+    font-weight: 900;}
+
+
+
+    .heart-rate {
+        width: 150px;
+        height: 73px;
+        position: relative;
+        margin: 20px auto;
+      }
+      
+      .fade-in {
+        position: absolute;
+        width: 100%;
+        height: 101%;
+        background-color: rgb(0, 35, 75);
+        top: -1px;
+        right: 0;
+        animation: heartRateIn 2.5s linear infinite;
+      }
+      
+      .fade-out {
+        position: absolute;
+        width: 120%;
+        height: 100%;
+        top: 0;
+        left: -120%;
+        animation: heartRateOut 2.5s linear infinite;
+        background: rgb(0, 35, 75);
+        background: -moz-linear-gradient(left, rgba(rgb(0, 35, 75)) 0%, rgba(rgb(0, 35, 75)) 50%, rgba(255, 255, 255, 0) 100%);
+        background: -webkit-linear-gradient(left, rgba(rgb(0, 35, 75)) 0%, rgba(rgb(0, 35, 75)) 50%, rgba(255, 255, 255, 0) 100%);
+        background: -o-linear-gradient(left, rgba(rgb(0, 35, 75)) 0%, rgba(rgb(0, 35, 75)) 50%, rgba(255, 255, 255, 0) 100%);
+        background: -ms-linear-gradient(left, rgba(rgb(0, 35, 75)) 0%, rgba(rgb(0, 35, 75)) 50%, rgba(255, 255, 255, 0) 100%);
+        background: linear-gradient(to right, rgba(rgb(0, 35, 75)) 0%, rgba(rgb(0, 35, 75)) 80%, rgba(255, 255, 255, 0) 100%);
+      }
+      
+      @keyframes heartRateIn {
+        0% {
+          width: 100%;
+        }
+        50% {
+          width: 0;
+        }
+        100% {
+          width: 0;
+        }
+      }
+      
+      @keyframes heartRateOut {
+        0% {
+          left: -120%;
+        }
+        30% {
+          left: -120%;
+        }
+        100% {
+          left: 0;
+        }
+      }
+
+    

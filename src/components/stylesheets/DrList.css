@@ -1,0 +1,19 @@
+.DrSearch{background-color: #E2E6EA; }
+
+.page-item{margin: 0 5px;}
+
+.filter-bar h3{  color: #008bff;
+    }
+
+
+
+    .filter-bar .dropdown{ margin-top: 2px;}
+
+    .acc-header{background-color: #008bff; padding: 10px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+color: white;
+}
+.card-header .btn{ width: 100%; height: 100%; background-color: white; color:#008bff ; border: none;}
+.card-header{padding: 0;}

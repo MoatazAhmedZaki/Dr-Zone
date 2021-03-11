@@ -1,0 +1,22 @@
+.dashboard .MainNav{ height: 100%;
+position: relative; padding: 0; }
+
+#MainUl {   display: block ; background-color: white; }
+
+#MainUl .nav-link {
+    color: #707070;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+#MainUl   .nav-link.active{ background-color: #e2e6ea; color: #008bff
+    ; }
+
+
+    .admininfo img{border-radius: 20px;}
+
+   .admininfo p{ margin-bottom: 0; font-weight: 500; font-size: 18px;}
+   .admininfo small{  font-size: 15px;}
+
